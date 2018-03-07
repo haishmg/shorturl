@@ -1,5 +1,0 @@
-com/yourl/service/IUrlStoreService.class
-com/yourl/controller/UrlController.class
-com/yourl/YourlApplication.class
-com/yourl/controller/dto/ShortenUrlRequest.class
-com/yourl/service/InMemoryUrlStoreService.class
